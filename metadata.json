@@ -1,0 +1,6 @@
+{
+  "name": "MRA – Digital Books & Resources",
+  "description": "Official landing page for MRA – Digital Books & Resources on Gumroad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
